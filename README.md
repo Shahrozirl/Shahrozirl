@@ -8,7 +8,7 @@
 </p>
 <ul>
   <li>🧠 Currently learning: <strong>Python, Java, C</strong></li>
-  <li>💼 Open to: <strong>[Opportunities</strong></li>
+  <li>💼 Open to: <strong>Opportunities</strong></li>
   <li>📍 Based in: <strong>Ireland</strong></li>
 </ul>
 
