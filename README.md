@@ -7,17 +7,10 @@
   As a passionate student, aiming in turning data into insights and building meaningful digital solutions through my studies. 
 </p>
 <ul>
-  <li>🧠 Currently learning: <strong>C</strong></li>
+  <li>🧠 Currently learning: <strong>Python, Java, C</strong></li>
   <li>💼 Open to: <strong>[Opportunities</strong></li>
   <li>📍 Based in: <strong>Ireland</strong></li>
 </ul>
-
-<hr/>
-
-<h2>🛠️ Tech Stack</h2>
-<p>
-  <strong>Languages:</strong> Python • Java • C <br/>
-</p>
 
 <hr/>
 
