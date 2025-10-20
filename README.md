@@ -1,4 +1,4 @@
-<h1>👋 Hello!</h1>
+<h1>👋 Hello! Welcome to my page!</h1>
 
 <h2>About Me</h2>
 <p>
@@ -6,7 +6,7 @@
   <strong>AI chatbot development</strong>, <strong>web design</strong>, and <strong>data visualisation</strong>.  
   I recently completed an <strong>Erasmus+ internship</strong> with <strong>Visma Tech</strong> in Porto, Portugal, where I worked on AI-based solutions and internal automation tools.  
   Outside of tech, I enjoy hiking, reading, and constantly developing new skills that align with modern workflows.  
-  My goal is to transform data into insights and create meaningful digital solutions that make an impact.
+  My goal is to transform data into insights and create meaningful solutions that make an impact.
 </p>
 
 <ul>
@@ -15,7 +15,9 @@
   <li>📍 Based in: <strong>Ireland</strong></li>
 </ul>
 
+
 <hr/>
+
 
 <h2>💼 Experience</h2>
 
@@ -29,7 +31,9 @@
   <li>Enhanced skills in <strong>backend development</strong>, <strong>machine learning integration</strong>, and <strong>data processing</strong>.</li>
 </ul>
 
+
 <hr/>
+
 
 <h2>📫 Get In Touch</h2>
 <p>
