@@ -40,7 +40,7 @@
   <a href="mailto:shahrozkwork@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/shahroz-khalid-03174b227/" target="_blank">
+  <a href="https://www.linkedin.com/in/shahroz-khalid-03174b227/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
