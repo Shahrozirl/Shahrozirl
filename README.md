@@ -23,25 +23,11 @@
 <p><em>Erasmus+ Mobility Programme · Summer 2025</em></p>
 <ul>
   <li>Developed an internal <strong>AI-powered Slackbot</strong> to assist employees with company policy queries.</li>
-  <li>Implemented document ingestion and retrieval pipelines using <strong>Python, Flask, FAISS,</strong> and <strong>LangChain</strong>.</li>
-  <li>Integrated <strong>Slack API</strong> for real-time question–answer automation within the workspace.</li>
+  <li>Implemented document ingestion and retrieval pipelines using <strong>Python, Flask,</strong> and embedding models<strong>(HuggingFace)</strong>.</li>
+  <li>Integrated <strong>Slack API</strong> for real-time question–answer automation.</li>
   <li>Collaborated with cross-functional teams to test, deploy, and refine AI-driven internal tools.</li>
   <li>Enhanced skills in <strong>backend development</strong>, <strong>machine learning integration</strong>, and <strong>data processing</strong>.</li>
 </ul>
-
-<hr/>
-
-<h2>🎓 Education</h2>
-
-<h3>QQI Level 5 Certificate in Data Science — Dundrum College of Further Education</h3>
-<p><em>2024 – 2025</em></p>
-<ul>
-  <li>Studying modules in <strong>Python, C Programming, Database Design, Statistics, and Data Analytics</strong>.</li>
-  <li>Completed practical projects such as a <strong>Python quiz game</strong>, <strong>RAPTOR flowcharts</strong>, and a <strong>Microsoft Access watch database</strong>.</li>
-  <li>Developing a foundation in <strong>data analysis</strong> and <strong>software development</strong> for progression to higher-level studies.</li>
-</ul>
-
-<p><strong>Next:</strong> Progressing to a <strong>BSc in Data Science</strong> at <strong>Dublin City University (DCU)</strong> in 2025.</p>
 
 <hr/>
 
