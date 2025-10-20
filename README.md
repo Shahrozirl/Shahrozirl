@@ -1,16 +1,47 @@
-<h1>Hello!</h1>
+<h1>👋 Hello!</h1>
 
-<h2>👨‍💻 About Me</h2>
+<h2>About Me</h2>
 <p>
-  Aspiring Computer Science student at Technological University Dublin, with hands-on experience in Al chatbot development, web design, and data visualisation. 
-  Recently participated in an Erasmus internship with Visma Tech in Porto, Portugal over this past summer. Enjoy hiking, reading and progressing my skills to fit current and future workflows. 
-  As a passionate student, aiming in turning data into insights and building meaningful digital solutions through my studies. 
+  I’m an aspiring <strong>Computer Science student</strong> at <strong>Technological University Dublin</strong> with hands-on experience in 
+  <strong>AI chatbot development</strong>, <strong>web design</strong>, and <strong>data visualisation</strong>.  
+  I recently completed an <strong>Erasmus+ internship</strong> with <strong>Visma Tech</strong> in Porto, Portugal, where I worked on AI-based solutions and internal automation tools.  
+  Outside of tech, I enjoy hiking, reading, and constantly developing new skills that align with modern workflows.  
+  My goal is to transform data into insights and create meaningful digital solutions that make an impact.
 </p>
+
 <ul>
   <li>🧠 Currently learning: <strong>Python, Java, C</strong></li>
-  <li>💼 Open to: <strong>Opportunities</strong></li>
+  <li>💼 Open to: <strong>Internship & Project Opportunities</strong></li>
   <li>📍 Based in: <strong>Ireland</strong></li>
 </ul>
+
+<hr/>
+
+<h2>💼 Experience</h2>
+
+<h3>AI & Software Development Intern — Visma Tech, Porto, Portugal</h3>
+<p><em>Erasmus+ Mobility Programme · Summer 2025</em></p>
+<ul>
+  <li>Developed an internal <strong>AI-powered Slackbot</strong> to assist employees with company policy queries.</li>
+  <li>Implemented document ingestion and retrieval pipelines using <strong>Python, Flask, FAISS,</strong> and <strong>LangChain</strong>.</li>
+  <li>Integrated <strong>Slack API</strong> for real-time question–answer automation within the workspace.</li>
+  <li>Collaborated with cross-functional teams to test, deploy, and refine AI-driven internal tools.</li>
+  <li>Enhanced skills in <strong>backend development</strong>, <strong>machine learning integration</strong>, and <strong>data processing</strong>.</li>
+</ul>
+
+<hr/>
+
+<h2>🎓 Education</h2>
+
+<h3>QQI Level 5 Certificate in Data Science — Dundrum College of Further Education</h3>
+<p><em>2024 – 2025</em></p>
+<ul>
+  <li>Studying modules in <strong>Python, C Programming, Database Design, Statistics, and Data Analytics</strong>.</li>
+  <li>Completed practical projects such as a <strong>Python quiz game</strong>, <strong>RAPTOR flowcharts</strong>, and a <strong>Microsoft Access watch database</strong>.</li>
+  <li>Developing a foundation in <strong>data analysis</strong> and <strong>software development</strong> for progression to higher-level studies.</li>
+</ul>
+
+<p><strong>Next:</strong> Progressing to a <strong>BSc in Data Science</strong> at <strong>Dublin City University (DCU)</strong> in 2025.</p>
 
 <hr/>
 
