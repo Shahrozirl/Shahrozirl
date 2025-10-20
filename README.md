@@ -19,7 +19,7 @@
 
 <h2>💼 Experience</h2>
 
-<h3>AI & Software Development Intern — Visma Tech, Porto, Portugal</h3>
+<h3>Tech Intern — Visma Tech, Porto, Portugal</h3>
 <p><em>Erasmus+ Mobility Programme · Summer 2025</em></p>
 <ul>
   <li>Developed an internal <strong>AI-powered Slackbot</strong> to assist employees with company policy queries.</li>
