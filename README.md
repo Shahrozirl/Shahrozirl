@@ -16,7 +16,6 @@
 </ul>
 
 
-<hr/>
 
 
 <h2>💼 Experience</h2>
@@ -32,7 +31,6 @@
 </ul>
 
 
-<hr/>
 
 
 <h2>📫 Get In Touch</h2>
