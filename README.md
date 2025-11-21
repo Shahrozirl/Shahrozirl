@@ -1,4 +1,4 @@
-<h1>👋 Hello! Welcome to my page!</h1>
+<h1>Hello! Welcome to my page!</h1>
 
 <h2>About Me</h2>
 <p>
@@ -10,15 +10,15 @@
 </p>
 
 <ul>
-  <li>🧠 Currently learning: <strong>Python, Java, C</strong></li>
-  <li>💼 Open to: <strong>Internship & Project Opportunities</strong></li>
-  <li>📍 Based in: <strong>Ireland</strong></li>
+  <li>Currently learning: <strong>Python, Java, C</strong></li>
+  <li>Open to: <strong>Internship & Project Opportunities</strong></li>
+  <li>Based in: <strong>Ireland</strong></li>
 </ul>
 
 
 
 
-<h2>💼 Experience</h2>
+<h2>Experience</h2>
 
 <h3>Tech Intern — Visma Tech, Porto, Portugal</h3>
 <p><em>Erasmus+ Mobility Programme · Summer 2025</em></p>
@@ -33,7 +33,7 @@
 
 
 
-<h2>📫 Get In Touch</h2>
+<h2>Get In Touch</h2>
 <p>
   <a href="mailto:shahrozkwork@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
